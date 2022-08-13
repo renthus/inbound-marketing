@@ -25,6 +25,7 @@ Este projeto de Inbound Marketing envolve desde a criação de posts, e-mail mar
 ## Funcionalidades
 
 :heavy_check_mark: `Funcionalidade 1:` Criação de uma página inicial.
+
 :heavy_check_mark: `Funcionalidade 2:` Criação de e-mail marketing.
 
 ## Tecnologias utilizadas
