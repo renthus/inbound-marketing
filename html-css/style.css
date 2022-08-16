@@ -111,6 +111,10 @@ nav a {
     color: #254159;
 }
 
+.cog-form__content {
+    background-color: #blueviolet;
+}
+
 nav a:hover {
     text-decoration: none;
     color: #252525;
@@ -123,11 +127,13 @@ footer {
     float: left;
     width: 100%;
     padding: 20px;
+    text-align: center !important;
 }
 
 footer p {
     color: #ffffff;
     font-size: 1.4rem;
+    text-align: center;
 }
 
 footer small {
